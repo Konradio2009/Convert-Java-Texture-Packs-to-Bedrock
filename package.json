@@ -1,0 +1,31 @@
+{
+  "name": "@konradio2009/convert-java-texture-packs-to-bedrock",
+  "productName": "Convert-Java-Texture-Packs-to-Bedrock",
+  "version": "0.0.1",
+  "description": "Convert a Java Texture Pack to a Bedrock Texture Pack",
+  "keywords": [
+    "Minecraft",
+    "Texture",
+    "Pack",
+    "Convert",
+    "Java",
+    "Bedrock",
+  ],
+  "author": "hxmbt",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konradio2009/Convert-Java-Texture-Packs-to-Bedrock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Konradio2009/Convert-Java-Texture-Packs-to-Bedrock/issues"
+  },
+  "homepage": "https://github.com/Konradio2009/Convert-Java-Texture-Packs-to-Bedrock#readme",
+  "devDependencies": {
+    "@modifiedcommand/convert-minecraft-java-texture-to-bedrock-api": "4.1.7",
+    "clean-webpack-plugin": "3.0.0",
+    "css-loader": "3.4.2",
+    "favicons-webpack-plugin": "1.0.2",
+    "file-loader": "6.2.0",
+    "file-saver": "https://github.com/eligrey/FileSaver.js/tarball/9o0a1e4ae2732c2d8eedc0214ef1c0fa32d15150",
+    
